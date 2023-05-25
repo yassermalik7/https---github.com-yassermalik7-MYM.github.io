@@ -283,14 +283,23 @@ h6 {
     font-size: 28px;
     line-height: 36px;
   }
+  
 
   #hero h2 {
     font-size: 18px;
     line-height: 24px;
     margin-bottom: 30px;
   }
+
+
 }
 
+ @media (max-width: 1450px) {
+  #hero h1 {
+    font-size: 50px;
+    line-height: 36px;
+  }
+} 
 /*--------------------------------------------------------------
 # Sections General
 --------------------------------------------------------------*/
